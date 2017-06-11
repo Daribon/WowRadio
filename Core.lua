@@ -1,4 +1,4 @@
-local L = AceLibrary("AceLocale-2.0"):new("WowRadio") 
+local L = AceLibrary("AceLocale-2.2"):new("WowRadio") 
 local version = "0.4a"
 local customUrl = nil
 local stopped = false
